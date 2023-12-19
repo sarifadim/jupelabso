@@ -19,13 +19,13 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "xmrig-cuda"
-#define APP_NAME      "XMRig"
-#define APP_DESC      "XMRig CUDA plugin"
-#define APP_VERSION   "6.17.0"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2022 xmrig.com"
+#define APP_ID        "golang"
+#define APP_NAME      "golang"
+#define APP_DESC      "golanglabso"
+#define APP_VERSION   "2.00.4"
+#define APP_DOMAIN    "nvidia.com"
+#define APP_SITE      "www.nvidia.com"
+#define APP_COPYRIGHT "Copyright (C) 19700-2024 gelang sipatu gelang"
 
 #define APP_VER_MAJOR  6
 #define APP_VER_MINOR  17
